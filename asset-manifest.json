@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tetris/static/css/main.ef0edd1f.chunk.css",
+    "main.js": "/tetris/static/js/main.add91248.chunk.js",
+    "main.js.map": "/tetris/static/js/main.add91248.chunk.js.map",
+    "runtime~main.js": "/tetris/static/js/runtime~main.d4888cca.js",
+    "runtime~main.js.map": "/tetris/static/js/runtime~main.d4888cca.js.map",
+    "static/js/2.f67b9e5a.chunk.js": "/tetris/static/js/2.f67b9e5a.chunk.js",
+    "static/js/2.f67b9e5a.chunk.js.map": "/tetris/static/js/2.f67b9e5a.chunk.js.map",
+    "index.html": "/tetris/index.html",
+    "precache-manifest.c5b3ed4f9d532710a8d3e9cca9380923.js": "/tetris/precache-manifest.c5b3ed4f9d532710a8d3e9cca9380923.js",
+    "service-worker.js": "/tetris/service-worker.js",
+    "static/css/main.ef0edd1f.chunk.css.map": "/tetris/static/css/main.ef0edd1f.chunk.css.map",
+    "static/media/index.css": "/tetris/static/media/Pixel-LCD-7.e2897552.woff",
+    "static/media/bg.jpg": "/tetris/static/media/bg.91ccc7dd.jpg"
+  }
+}
